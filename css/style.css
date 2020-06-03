@@ -1,0 +1,37 @@
+body{
+    background: red;
+    margin-left: 400px;
+    margin-right: 500px;
+}
+header{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+h1{
+    color: blue;
+    font-family: fantasy;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+h2{
+    font-family: fantasy;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+p{
+    font-size: 18px; /*Tamanho da fonte (calibrador) para minha lista*/
+}
+li{
+    font-size: 18px; 
+}
+footer{
+    margin-bottom: 30px;
+}
+.img_padrao {
+    margin-bottom: 10px;
+    width: 300px;
+}
+.img_logo {
+    width: 30px;
+    margin-bottom: 5;
+}
